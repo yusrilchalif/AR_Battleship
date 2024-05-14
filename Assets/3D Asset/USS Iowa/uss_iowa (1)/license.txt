@@ -1,0 +1,11 @@
+Model Information:
+* title:	USS IOWA
+* source:	https://sketchfab.com/3d-models/uss-iowa-924f63b1a5ac45b2bc58351fc03ea45d
+* author:	philano (https://sketchfab.com/philano)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "USS IOWA" (https://sketchfab.com/3d-models/uss-iowa-924f63b1a5ac45b2bc58351fc03ea45d) by philano (https://sketchfab.com/philano) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
