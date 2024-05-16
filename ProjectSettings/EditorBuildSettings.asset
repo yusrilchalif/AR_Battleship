@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Missouri_Scene.unity
     guid: 2f53f3c0f6a1de2428c334f9846a3c6b
+  - enabled: 1
+    path: Assets/Scenes/Iowa_Scene.unity
+    guid: 95008ac8453f1f241954f0e6bbdfb209
   m_configObjects: {}
