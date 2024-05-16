@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Mainmenu.unity
     guid: 2792c818e00f34240872dd6871d00a88
   - enabled: 1
-    path: Assets/Scenes/AR Scene.unity
+    path: Assets/Scenes/Yamato_Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Bismarck_Scene.unity
+    guid: 831666ed6dcd1cc44b62b05b96eac298
+  - enabled: 1
+    path: Assets/Scenes/Tirpitz_Scene.unity
+    guid: 80d4a6598267be04e9feade67346b9d3
+  - enabled: 1
+    path: Assets/Scenes/Missouri_Scene.unity
+    guid: 2f53f3c0f6a1de2428c334f9846a3c6b
   m_configObjects: {}
